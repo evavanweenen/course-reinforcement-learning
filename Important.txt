@@ -1,0 +1,8 @@
+instructions for running the code, run the code by using main.py,
+There are 2 agents in main.py, one is commented out(monte_carlo by default), the policy estimation policy gradient is the one which runs normally. 
+Change the comment line in main.py and the code should run smoothly.
+
+joblib is a non-standard python library which you need to install on your device.
+Most programming was done in python 3.6, as 3.4 seemed outdated for most devices and libraries, and the online documentation is not easily available below 3.5.
+Only tested the code on computers from the Leiden Observatory, as we could not get it run smoothly on Duranium.
+
